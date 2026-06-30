@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root {
+  --mcc-navy: #1B1B52;
+  --mcc-maroon: #A61C3C;
+  --mcc-gold: #D4A017;
+  --mcc-light: #F8F8F5;
+  --mcc-border: #E5E7EB;
+}
